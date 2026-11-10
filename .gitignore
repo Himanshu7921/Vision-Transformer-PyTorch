@@ -1,0 +1,6 @@
+src/__pycache__/*
+data/
+src/checkpoints/*
+src/tea_debug.log
+src/wandb/*
+src/checkpoint/*
